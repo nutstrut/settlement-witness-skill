@@ -135,3 +135,7 @@ receipts
 ai-agents  
 validation  
 reputation  
+
+## Metadata
+
+Last updated: 2026-03-29
